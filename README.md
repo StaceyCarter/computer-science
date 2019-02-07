@@ -18,14 +18,31 @@
 
 # Contents
 
+- [Contents](#contents)
 - [Summary](#summary)
 - [Curriculum](#curriculum)
   - [Prerequisites](#prerequisites)
   - [Introduction to Computer Science](#introduction-to-computer-science)
   - [Core CS](#core-cs)
+    - [Core programming](#core-programming)
+      - [Readings](#readings)
+    - [Core math](#core-math)
+    - [Core systems](#core-systems)
+      - [Readings](#readings-1)
+    - [Core theory](#core-theory)
+    - [Core applications](#core-applications)
   - [Advanced CS](#advanced-cs)
+    - [Advanced programming](#advanced-programming)
+    - [Advanced math](#advanced-math)
+    - [Advanced systems](#advanced-systems)
+    - [Advanced theory](#advanced-theory)
+    - [Advanced applications](#advanced-applications)
   - [Final project](#final-project)
+    - [Evaluation](#evaluation)
+    - [Cooperative work](#cooperative-work)
+    - [Which programming languages should I use?](#which-programming-languages-should-i-use)
   - [Pro CS](#pro-cs)
+    - [Where to go next?](#where-to-go-next)
 - [Code of conduct](#code-of-conduct)
 - [Community](#community)
   - [How to show your progress](#how-to-show-your-progress)
@@ -91,22 +108,36 @@ just remember that you can't purchase success!
 
 **Curriculum version**: `8.0.0` (see [CHANGELOG](CHANGELOG.md))
 
-- [Prerequisites](#prerequisites)
-- [Introduction to Computer Science](#introduction-to-computer-science)
-- [Core CS](#core-cs)
-  - [Core programming](#core-programming)
-  - [Core math](#core-math)
-  - [Core systems](#core-systems)
-  - [Core theory](#core-theory)
-  - [Core applications](#core-applications)
-- [Advanced CS](#advanced-cs)
-  - [Advanced programming](#advanced-programming)
-  - [Advanced math](#advanced-math)
-  - [Advanced systems](#advanced-systems)
-  - [Advanced theory](#advanced-theory)
-  - [Advanced applications](#advanced-applications)
-- [Final project](#final-project)
-- [Pro CS](#pro-cs)
+- [Contents](#contents)
+- [Summary](#summary)
+- [Curriculum](#curriculum)
+  - [Prerequisites](#prerequisites)
+  - [Introduction to Computer Science](#introduction-to-computer-science)
+  - [Core CS](#core-cs)
+    - [Core programming](#core-programming)
+      - [Readings](#readings)
+    - [Core math](#core-math)
+    - [Core systems](#core-systems)
+      - [Readings](#readings-1)
+    - [Core theory](#core-theory)
+    - [Core applications](#core-applications)
+  - [Advanced CS](#advanced-cs)
+    - [Advanced programming](#advanced-programming)
+    - [Advanced math](#advanced-math)
+    - [Advanced systems](#advanced-systems)
+    - [Advanced theory](#advanced-theory)
+    - [Advanced applications](#advanced-applications)
+  - [Final project](#final-project)
+    - [Evaluation](#evaluation)
+    - [Cooperative work](#cooperative-work)
+    - [Which programming languages should I use?](#which-programming-languages-should-i-use)
+  - [Pro CS](#pro-cs)
+    - [Where to go next?](#where-to-go-next)
+- [Code of conduct](#code-of-conduct)
+- [Community](#community)
+  - [How to show your progress](#how-to-show-your-progress)
+  - [Team](#team)
+- [References](#references)
 
 ---
 
@@ -154,7 +185,7 @@ All coursework under Core CS is **required**, unless otherwise indicated.
 
 Courses | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
-[How to Code - Simple Data](https://www.edx.org/course/how-code-simple-data-ubcx-htc1x) | 7 weeks | 8-10 hours/week | none
+[How to Code - Simple Data](https://www.edx.org/course/how-code-simple-data-ubcx-htc1x) | 7 weeks | 8-10 hours/week | none | Currently in progress
 [How to Code - Complex Data](https://www.edx.org/course/how-code-complex-data-ubcx-htc2x) | 6 weeks | 8-10 hours/week | How to Code: Simple Data
 [Software Construction - Data Abstraction](https://www.edx.org/course/software-construction-data-abstraction-ubcx-softconst1x) | 6 weeks | 8-10 hours/week | How to Code - Complex Data
 [Software Construction - Object-Oriented Design](https://www.edx.org/course/software-construction-object-oriented-ubcx-softconst2x) | 6 weeks | 8-10 hours/week | Software Construction - Data Abstraction
@@ -188,7 +219,7 @@ Courses | Duration | Effort | Prerequisites
 
 Courses | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
-[Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) | - | - | pre-calculus
+[Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) | - | - | pre-calculus | Currently in progress
 [Linear Algebra - Foundations to Frontiers](https://www.edx.org/course/linear-algebra-foundations-to-frontiers#!) ([alt](http://ulaff.net/)) | 15 weeks | 8 hours/week | Essence of Linear Algebra
 [Calculus 1A: Differentiation](https://www.edx.org/course/calculus-1a-differentiation) | 13 weeks | 6-10 hours/week | pre-calculus
 [Calculus 1B: Integration](https://www.edx.org/course/calculus-1b-integration) | 13 weeks | 5-10 hours/week | Calculus 1A
