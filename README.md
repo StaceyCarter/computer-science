@@ -185,7 +185,7 @@ All coursework under Core CS is **required**, unless otherwise indicated.
 
 Courses | Duration | Effort | Prerequisites | Progress 
 :-- | :--: | :--: | :--: | :--:
-[How to Code - Simple Data](https://www.edx.org/course/how-code-simple-data-ubcx-htc1x) | 7 weeks | 8-10 hours/week | none | Currently in progress
+[How to Code - Simple Data](https://www.edx.org/course/how-code-simple-data-ubcx-htc1x) | 7 weeks | 8-10 hours/week | none | Done
 [How to Code - Complex Data](https://www.edx.org/course/how-code-complex-data-ubcx-htc2x) | 6 weeks | 8-10 hours/week | How to Code: Simple Data
 [Software Construction - Data Abstraction](https://www.edx.org/course/software-construction-data-abstraction-ubcx-softconst1x) | 6 weeks | 8-10 hours/week | How to Code - Complex Data
 [Software Construction - Object-Oriented Design](https://www.edx.org/course/software-construction-object-oriented-ubcx-softconst2x) | 6 weeks | 8-10 hours/week | Software Construction - Data Abstraction
@@ -250,10 +250,10 @@ Skip to the second course (Nand2Tetris) when the first course (CS50) moves away 
 `network protocols`
 `and more`
 
-Courses | Duration | Effort | Prerequisites
-:-- | :--: | :--: | :--:
+Courses | Duration | Effort | Prerequisites | Progress
+:-- | :--: | :--: | :--: | :--:
 [Introduction to Computer Science - CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#!) ([alt](https://cs50.harvard.edu/)) | 12 weeks | 10-20 hours/week | introductory programming
-[Build a Modern Computer from First Principles: From Nand to Tetris](https://www.coursera.org/learn/build-a-computer) ([alt](http://www.nand2tetris.org/)) | 6 weeks | 7-13 hours/week | C-like programming language
+[Build a Modern Computer from First Principles: From Nand to Tetris](https://www.coursera.org/learn/build-a-computer) ([alt](http://www.nand2tetris.org/)) | 6 weeks | 7-13 hours/week | C-like programming language | In progress
 [Build a Modern Computer from First Principles: Nand to Tetris Part II ](https://www.coursera.org/learn/nand2tetris2) | 6 weeks | 12-18 hours/week | one of [these programming languages](https://user-images.githubusercontent.com/2046800/35426340-f6ce6358-026a-11e8-8bbb-4e95ac36b1d7.png), From Nand to Tetris Part I
 [Introduction to Computer Networking](https://lagunita.stanford.edu/courses/Engineering/Networking-SP/SelfPaced/about)| 8 weeks | 4–12 hours/week | algebra, probability, basic CS
 [ops-class.org - Hack the Kernel](https://www.ops-class.org/) | 15 weeks | 6 hours/week | algorithms
